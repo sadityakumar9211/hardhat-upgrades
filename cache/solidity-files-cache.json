@@ -1,0 +1,89 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/saditya/Desktop/Blockchain Development/Free Code Camp Video JS/hh-fcc/hh-upgrades/contracts/Box.sol": {
+      "lastModificationDate": 1666966041567,
+      "contentHash": "10a251694c95a3a5ed6e231859722324",
+      "sourceName": "contracts/Box.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "Box"
+      ]
+    },
+    "/Users/saditya/Desktop/Blockchain Development/Free Code Camp Video JS/hh-fcc/hh-upgrades/contracts/BoxV2.sol": {
+      "lastModificationDate": 1666966120118,
+      "contentHash": "33395c37e70ed5e8ffdfe39b027258b8",
+      "sourceName": "contracts/BoxV2.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "BoxV2"
+      ]
+    }
+  }
+}
